@@ -1,0 +1,28 @@
+.resaltador{
+   font-style: italic;
+   text-decoration: underline; 
+   background-color: darkorange;
+}
+.colorRojo{
+   font-style: italic;
+   color: red;
+}
+.formatoImg{
+   width : "400px"; 
+   height :"300px";
+}
+#thirdDiv{
+   height: "600px";
+   width: "500px";
+   background-color:gray;
+   padding: "50px";
+   border-color: blue;
+   box-sizing:border-box;
+   border-style: dotted;
+
+   
+}
+#spanId{
+   font-size: 18;
+   margin: "50px";
+}
