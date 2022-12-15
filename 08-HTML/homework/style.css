@@ -1,3 +1,10 @@
+div{
+   display: block;
+   border: 1px solid black;
+  
+   
+}
+
 .resaltador{
    font-style: italic;
    text-decoration: underline; 
@@ -22,6 +29,7 @@
 
    
 }
+   
 #spanId{
    font-size: 18;
    margin: "50px";
